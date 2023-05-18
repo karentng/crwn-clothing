@@ -1,5 +1,5 @@
-import { Category } from '../../App'
-import './category-card.scss'
+import { Category } from '../../routes/home/Home';
+import './category-card.scss';
 
 
 type CategoryProps = {

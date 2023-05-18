@@ -1,6 +1,6 @@
-import { Category } from '../../App'
+import { Category } from '../../routes/home/Home';
 import CategoryCard from '../category-card/CategoryCard';
-import './categories-menu.scss'
+import './categories-menu.scss';
 
 type CategoriesMenuProps = {
   categories: Category[];
